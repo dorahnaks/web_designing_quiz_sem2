@@ -29,7 +29,7 @@
 function greet(name){
     return "Hello," + name + "!"
 }
-console.log(greet(Dorah));
+console.log(greet('name'));
 
 12.  Not Equal
 
